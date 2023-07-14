@@ -15,4 +15,5 @@ tests_RoTe.py - набор автотестов
 Объект тесирования: форма регистрации/авторизации сайта: https://b2c.passport.rt.ru
 
 Ссылка на тестирование требований, тест-кейсы, баг-репорты:
-https://docs.google.com/spreadsheets/d/156llkPASV_n4J1qP9MZ3GCIOrgNlHVt2_4rVTbITGFo/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/156llkPASV_n4J1qP9MZ3GCIOrgNlHVt2_4rVTbITGFo/edit?usp=sharing 
+
