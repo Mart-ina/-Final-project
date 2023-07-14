@@ -3,7 +3,7 @@
 
 
 from time import sleep
-from base_data import *
+from base_page import *
 from settings import *
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
