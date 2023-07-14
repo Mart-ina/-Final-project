@@ -1,5 +1,5 @@
 ###
-### python -m pytest -v --driver Chrome --driver-path chromedriver.exe.exe tests_RoTe.py
+### python -m pytest -v --driver Chrome --driver-path chromedriver.exe tests_RoTe.py
 
 
 from time import sleep
